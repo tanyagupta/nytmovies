@@ -1,0 +1,67 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "new york times movies",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.YesIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NoIntent",
+          "samples": []
+        },
+        {
+          "name": "GetNewFactIntent",
+          "slots": [],
+          "samples": [
+            "a fact",
+            "a New York Times Movie fact",
+            "a New York Times Movie fact",
+            "tell me a fact",
+            "tell me a New York Times Movie fact",
+            "tell me a New York Times Movie fact",
+            "give me a fact",
+            "give me a New York Times Movie fact",
+            "give me a New York Times Movie fact",
+            "tell me trivia",
+            "tell me a New York Times Movie trivia",
+            "tell me a New York Times Movie trivia",
+            "give me trivia",
+            "give me a New York Times Movie trivia",
+            "give me some information",
+            "give me some New York Times Movie information",
+            "give me some New York Times Movie information",
+            "tell me something",
+            "give me something"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.RepeatIntent",
+          "samples": []
+        }
+      ],
+      "types": []
+    }
+  }
+}
